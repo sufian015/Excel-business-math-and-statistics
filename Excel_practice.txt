@@ -1,0 +1,35 @@
+
+⭐️ Timestamps ⭐️
+
+00:00 Introduction
+04:59 Excel Basics
+21:05 Total, Average, % Revenue
+34:48 Basics of Profit & Loss (P&L) Statement
+55:01 Mean, Median, Mode
+1:02:19 Variance and Standard Deviation
+1:16:42 Correlation
+
+
+
+Requirement:
+Note: We don't have all data. We copied from some part.
+
+1.convert budget and revenue into millon?
+2. convert budget and revenue into INR or USD?
+ NOTE: This will helpful for calculations
+3. Calculate sum budget and revenue in USD?
+4. What is total number of movies?
+5. Calculate how many boliwood movies and calculate it,s revenue?
+6. Calculate bollywood revenue in INR or USD?
+7. Calculate avg revenue in USD?
+8.% Revenue from bollywood?
+9. Case study marvel studio?
+10. Calculate marvel studion financial codition?
+    Marvel studio revenue, Budget, Profit/Loss, Profit/Loss%, Total hollwood revenue, Market Share.
+   
+11. Research market share e-commarce web applications?
+12. Let's say in the beginning of the year your added some target so compare target and actual values?
+13. Add a chart and compare it?
+14. Calculate mean, median and mode of rating?
+15. Calculate variance and standard deviation?
+ Note: Variance less means this is less riskful.
