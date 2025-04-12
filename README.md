@@ -1,7 +1,7 @@
 # Excel-business-math-and-statistics
 How can you calculate different types of business math and statistics that has shown on this repository.
 
-# Data-Driven Insights and Financial Analysis Projects
+## Data-Driven Insights and Financial Analysis Projects
 
 Welcome to my GitHub profile! Here, I demonstrate my ability to turn raw data into meaningful insights. I specialize in financial analysis, market research, and statistical evaluations, using data visualization and programming to solve real-world problems. Below are some highlights:
 
@@ -31,7 +31,7 @@ Welcome to my GitHub profile! Here, I demonstrate my ability to turn raw data in
 - Data visualization techniques to compare performance metrics.  
 - Industry-specific insights and market research capabilities.
 
-##### Note: This is not full industry data , but some part.
+##### Note: This is not full industrial data , but some part.
 
 
 
