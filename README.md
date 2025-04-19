@@ -1,9 +1,6 @@
 # Excel with math and statistics
 How could you calculate different types formulas of business math and statistics in excel that are shown in this repository.
 
-## Data-Driven Insights and Financial Analysis Projects
-
-Welcome to my GitHub profile! Here, I demonstrate my ability to turn raw data into meaningful insights. I specialize in financial analysis, market research, and statistical evaluations, using data visualization and programming to solve real-world problems. Below are some highlights:
 
 ### Featured Projects
 1. **Movie Industry Financial Analysis**  
