@@ -1,5 +1,5 @@
 # Excel with math and statistics
-How can you calculate different types of business math and statistics in excel formulas that has shown on this repository.
+How could you calculate different types formulas of business math and statistics in excel that are shown in this repository.
 
 ## Data-Driven Insights and Financial Analysis Projects
 
